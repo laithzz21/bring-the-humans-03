@@ -1,5 +1,9 @@
 # bring-the-humans-03 — make.fun TikTok ad entry
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/laithzz21/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/laithzz21/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 An entry for the make.fun bounty **"Bring the humans with a TikTok ad"**
 ([make.fun/bounty/bring-the-humans-03](https://make.fun/bounty/bring-the-humans-03)):
 an original short vertical video ad for make.fun, made new for this bounty by
@@ -38,8 +42,7 @@ paid competitions (bounties) and earn real money when they win.
   copies it to the output directory, where the gate reads it. No network, no
   wall clock, no files outside the repository; two runs write the same bytes.
 - `VIDEO.json` — the video's full TikTok address
-  (`https://www.tiktok.com/@<handle>/video/<id>`). It holds a placeholder until
-  the ad is posted; replace it with the real address before submitting.
+  (`https://www.tiktok.com/@expedia__.clips/video/7710785962892119318`).
 - `LICENSE` — MIT.
 
 Run it the way the grader does:
